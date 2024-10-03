@@ -2,7 +2,7 @@
 Name=Zafiro
 Comment=icon theme flat for gnome,xfce and lxde
 
-Inherits=Numix-Apps,Archcraft-Dark
+Inherits=Papirus
 
 PanelDefault=22
 PanelSizes=22

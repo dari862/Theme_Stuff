@@ -1,0 +1,45 @@
+deb8-theme (1.1-2) unstable; urgency=medium
+
+  * Fix lintian warnings wrong-bug-number-in-closes,
+    executable-not-elf-or-script
+
+ -- Jens Oliver John <dev@2ion.de>  Wed, 04 Mar 2015 19:13:15 +0100
+
+deb8-theme (1.1-1) stable; urgency=medium
+
+  * Import new upstream release, including fixes for several issues:
+    - libgtk error messages on stderr
+    - GTK3 buttons are being cut off
+    - lightdm improvements
+
+ -- Jens Oliver John <dev@2ion.de>  Wed, 18 Feb 2015 17:42:11 +0100
+
+deb8-theme (1.0-5) unstable; urgency=medium
+
+  * Remove README.Source from the package (unused)
+
+ -- Jens Oliver John <dev@2ion.de>  Mon, 16 Feb 2015 21:22:34 +0100
+
+deb8-theme (1.0-4) unstable; urgency=medium
+
+  * Remove README.Debian from the package (unused)
+
+ -- Jens Oliver John <dev@2ion.de>  Mon, 16 Feb 2015 20:43:02 +0100
+
+deb8-theme (1.0-3) unstable; urgency=medium
+
+  * Suggest gtk2 engines, gtk3 and openbox
+
+ -- Jens Oliver John <dev@2ion.de>  Mon, 16 Feb 2015 20:37:56 +0100
+
+deb8-theme (1.0-2) unstable; urgency=medium
+
+  * Fix wrong install paths
+
+ -- Jens Oliver John <dev@2ion.de>  Mon, 16 Feb 2015 20:24:23 +0100
+
+deb8-theme (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Jens Oliver John <dev@2ion.de>  Mon, 16 Feb 2015 20:10:48 +0100

@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Miya-dark
-Comment=MacOSX style icon theme for linux.
+Name=Elena-dark-icons
+Comment=Elena-dark icons.
 Inherits=Numix-Circle,Adwaita,hicolor
 Example=folder
 

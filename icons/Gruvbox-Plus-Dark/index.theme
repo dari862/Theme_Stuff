@@ -41,7 +41,7 @@
 # - Pavel Pertsev <https://github.com/morhetz/gruvbox>
 
 [Icon Theme]
-Name=Gruvbox Plus Dark
+Name=Gruvbox Plux Dark
 Comment=Icon pack with gruvbox colors for dark themes
 
 Inherits=Papirus

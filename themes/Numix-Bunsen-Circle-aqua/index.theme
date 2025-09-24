@@ -1,9 +1,0 @@
-[Icon Theme]
-Name=Numix-Bunsen-Circle-aqua
-Comment=Numix icon theme with a circular apps icons design, with recoloured folder icons for BunsenLabs
-
-Inherits=Numix-Bunsen-Dark-common,Numix-Bunsen-aqua-common,Numix-Circle
-
-Example=directory-x-normal
-
-Directories=

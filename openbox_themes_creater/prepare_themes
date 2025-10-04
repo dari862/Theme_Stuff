@@ -8,6 +8,9 @@ cd .. && cd openbox_themes
 for t in ${list_of_base_GTK_theme};do
     OBBname="${t#*_}"
     newthemename="${t%%_*}"
+    if [ "${newthemename}" = "openbox-Sweetly" ] || [ "${newthemename}" = "openbox-Fleon" ];then
+    	newthemename="${newthemename}${OBBname}"
+    fi
 	mkdir -p "${newthemename}/openbox-3"
 	cd "${newthemename}/openbox-3"
 	ln -sf ../../../openbox_themes_creater/OBB/${OBBname}/* .
